@@ -74,7 +74,7 @@ class Tokenizer:
 
         # Import GPT-2 encoding function
         try:
-            from .common import gpt2_bytes_to_unicode
+            from tests.common import gpt2_bytes_to_unicode
         except ImportError:
             # Fallback for standalone usage
             from common import gpt2_bytes_to_unicode

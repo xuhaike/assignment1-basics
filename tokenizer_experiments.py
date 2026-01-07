@@ -91,9 +91,7 @@ def main():
         return 1
 
     # Import tokenizer
-    import sys
-    sys.path.insert(0, str(script_dir / 'tests'))
-    from tokenizer import Tokenizer
+    from cs336_basics.tokenizer import Tokenizer
 
     print("\n" + "=" * 80)
     print("Loading Tokenizers")
