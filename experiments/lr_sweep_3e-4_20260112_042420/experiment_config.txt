@@ -1,0 +1,37 @@
+[2026-01-12 04:24:20] 
+Experiment: lr_sweep_3e-4
+Description: Learning rate sweep: testing lr=3e-4
+Tags: sweep, lr, 3e-4
+
+Model Architecture:
+  - Vocabulary Size: 10,000
+  - Context Length: 256
+  - Model Dimension: 512
+  - Layers: 4
+  - Heads: 16
+  - FFN Dimension: 1344
+  - RoPE Theta: 10000.0
+
+Training Configuration:
+  - Batch Size: 64
+  - Max Iterations: 10,000
+  - Seed: 42
+
+Optimizer (AdamW):
+  - Max Learning Rate: 0.0003
+  - Min Learning Rate: 2.9999999999999997e-05
+  - Beta1: 0.9, Beta2: 0.999
+  - Epsilon: 1e-08
+  - Weight Decay: 0.1
+  - Gradient Clipping: 1.0
+
+Learning Rate Schedule:
+  - Warmup Iterations: 1000
+  - Cosine Cycle Iterations: 8000
+
+Data:
+  - Train: data/tinystories_train.bin
+  - Validation: data/tinystories_val.bin
+
+Notes: Part of learning rate sweep to find optimal LR
+

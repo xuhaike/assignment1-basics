@@ -174,3 +174,9 @@ data
 # output/tinystories_merges.txt
 # output/openwebtext_vocab.json
 # output/openwebtext_merges.txt
+
+# Checkpoints - large model weight files
+checkpoints/
+
+# Generated plot images
+*.png

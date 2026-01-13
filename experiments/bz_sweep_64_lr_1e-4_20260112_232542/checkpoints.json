@@ -1,0 +1,83 @@
+[
+  {
+    "path": "checkpoints/bz_sweep/bz_64_lr_1e-4/checkpoint_000500.pt",
+    "step": 500,
+    "timestamp": "2026-01-12T23:28:50.405954",
+    "metrics": {
+      "train/loss": 3.357670783996582,
+      "val/loss": 3.354767990112305
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_64_lr_1e-4/checkpoint_001000.pt",
+    "step": 1000,
+    "timestamp": "2026-01-12T23:31:57.565363",
+    "metrics": {
+      "train/loss": 2.6250925064086914,
+      "val/loss": 2.6638210296630858
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_64_lr_1e-4/checkpoint_001500.pt",
+    "step": 1500,
+    "timestamp": "2026-01-12T23:35:04.730263",
+    "metrics": {
+      "train/loss": 2.4141845703125,
+      "val/loss": 2.429533100128174
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_64_lr_1e-4/checkpoint_002000.pt",
+    "step": 2000,
+    "timestamp": "2026-01-12T23:38:11.927393",
+    "metrics": {
+      "train/loss": 2.2324976921081543,
+      "val/loss": 2.3138466358184813
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_64_lr_1e-4/checkpoint_002500.pt",
+    "step": 2500,
+    "timestamp": "2026-01-12T23:41:19.087916",
+    "metrics": {
+      "train/loss": 2.262601375579834,
+      "val/loss": 2.22088143825531
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_64_lr_1e-4/checkpoint_003000.pt",
+    "step": 3000,
+    "timestamp": "2026-01-12T23:44:26.249657",
+    "metrics": {
+      "train/loss": 2.0984740257263184,
+      "val/loss": 2.2086915254592894
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_64_lr_1e-4/checkpoint_003500.pt",
+    "step": 3500,
+    "timestamp": "2026-01-12T23:47:33.449519",
+    "metrics": {
+      "train/loss": 2.3295745849609375,
+      "val/loss": 2.1618170499801637
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_64_lr_1e-4/checkpoint_004000.pt",
+    "step": 4000,
+    "timestamp": "2026-01-12T23:50:40.611858",
+    "metrics": {
+      "train/loss": 2.1875252723693848,
+      "val/loss": 2.1565246105194094
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_64_lr_1e-4/checkpoint_004500.pt",
+    "step": 4500,
+    "timestamp": "2026-01-12T23:53:47.774979",
+    "metrics": {
+      "train/loss": 2.069945812225342,
+      "val/loss": 2.122492790222168
+    }
+  }
+]

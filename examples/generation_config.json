@@ -1,0 +1,21 @@
+{
+  "model": {
+    "experiment_dir": "experiments/baseline_17m_20260111_231919",
+    "checkpoint": "auto",
+    "config_file": null
+  },
+  "tokenizer": {
+    "vocab_path": "output/tinystories_vocab.json",
+    "merges_path": "output/tinystories_merges.txt"
+  },
+  "generation": {
+    "prompt": "Once upon a time",
+    "max_tokens": 200,
+    "temperature": 0.8,
+    "top_p": 0.9,
+    "device": "cuda"
+  },
+  "mode": {
+    "interactive": false
+  }
+}

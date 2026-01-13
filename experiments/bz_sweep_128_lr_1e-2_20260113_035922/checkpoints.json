@@ -1,0 +1,38 @@
+[
+  {
+    "path": "checkpoints/bz_sweep/bz_128_lr_1e-2/checkpoint_000500.pt",
+    "step": 500,
+    "timestamp": "2026-01-13T04:05:24.915996",
+    "metrics": {
+      "train/loss": 1.9954127073287964,
+      "val/loss": 2.0361846685409546
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_128_lr_1e-2/checkpoint_001000.pt",
+    "step": 1000,
+    "timestamp": "2026-01-13T04:11:31.779931",
+    "metrics": {
+      "train/loss": 1.768331527709961,
+      "val/loss": 1.7775248169898987
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_128_lr_1e-2/checkpoint_001500.pt",
+    "step": 1500,
+    "timestamp": "2026-01-13T04:17:39.122163",
+    "metrics": {
+      "train/loss": 1.5725904703140259,
+      "val/loss": 1.6113776326179505
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_128_lr_1e-2/checkpoint_002000.pt",
+    "step": 2000,
+    "timestamp": "2026-01-13T04:23:46.458376",
+    "metrics": {
+      "train/loss": 1.541000247001648,
+      "val/loss": 1.5165604591369628
+    }
+  }
+]

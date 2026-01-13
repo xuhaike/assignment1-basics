@@ -1,0 +1,33 @@
+{
+  "experiment_name": "bz_sweep_128_lr_1e-4",
+  "description": "Batch size sweep: testing bz=128, lr=1e-4",
+  "tags": [
+    "sweep",
+    "batch_size",
+    "bz_128",
+    "lr_1e-4"
+  ],
+  "vocab_size": 10000,
+  "context_length": 256,
+  "d_model": 512,
+  "num_layers": 4,
+  "num_heads": 16,
+  "d_ff": 1344,
+  "rope_theta": 10000.0,
+  "batch_size": 128,
+  "max_iters": 2500,
+  "seed": 42,
+  "max_lr": 0.0001,
+  "min_lr": 1e-05,
+  "beta1": 0.9,
+  "beta2": 0.999,
+  "eps": 1e-08,
+  "weight_decay": 0.1,
+  "grad_clip": 1.0,
+  "warmup_iters": 250,
+  "cosine_cycle_iters": 2000,
+  "train_data_path": "data/tinystories_train.bin",
+  "val_data_path": "data/tinystories_val.bin",
+  "device": "cuda",
+  "notes": "Part of batch size sweep to find optimal batch size and learning rate combination"
+}

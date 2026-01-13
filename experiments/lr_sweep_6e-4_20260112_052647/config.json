@@ -1,0 +1,32 @@
+{
+  "experiment_name": "lr_sweep_6e-4",
+  "description": "Learning rate sweep: testing lr=6e-4",
+  "tags": [
+    "sweep",
+    "lr",
+    "6e-4"
+  ],
+  "vocab_size": 10000,
+  "context_length": 256,
+  "d_model": 512,
+  "num_layers": 4,
+  "num_heads": 16,
+  "d_ff": 1344,
+  "rope_theta": 10000.0,
+  "batch_size": 64,
+  "max_iters": 10000,
+  "seed": 42,
+  "max_lr": 0.0006,
+  "min_lr": 5.9999999999999995e-05,
+  "beta1": 0.9,
+  "beta2": 0.999,
+  "eps": 1e-08,
+  "weight_decay": 0.1,
+  "grad_clip": 1.0,
+  "warmup_iters": 1000,
+  "cosine_cycle_iters": 8000,
+  "train_data_path": "data/tinystories_train.bin",
+  "val_data_path": "data/tinystories_val.bin",
+  "device": "cuda",
+  "notes": "Part of learning rate sweep to find optimal LR"
+}

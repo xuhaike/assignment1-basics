@@ -1,0 +1,37 @@
+[2026-01-12 22:54:27] 
+Experiment: bz_sweep_64_lr_1e-3
+Description: Batch size sweep: testing bz=64, lr=1e-3
+Tags: sweep, batch_size, bz_64, lr_1e-3
+
+Model Architecture:
+  - Vocabulary Size: 10,000
+  - Context Length: 256
+  - Model Dimension: 512
+  - Layers: 4
+  - Heads: 16
+  - FFN Dimension: 1344
+  - RoPE Theta: 10000.0
+
+Training Configuration:
+  - Batch Size: 64
+  - Max Iterations: 5,000
+  - Seed: 42
+
+Optimizer (AdamW):
+  - Max Learning Rate: 0.001
+  - Min Learning Rate: 0.0001
+  - Beta1: 0.9, Beta2: 0.999
+  - Epsilon: 1e-08
+  - Weight Decay: 0.1
+  - Gradient Clipping: 1.0
+
+Learning Rate Schedule:
+  - Warmup Iterations: 500
+  - Cosine Cycle Iterations: 4000
+
+Data:
+  - Train: data/tinystories_train.bin
+  - Validation: data/tinystories_val.bin
+
+Notes: Part of batch size sweep to find optimal batch size and learning rate combination
+

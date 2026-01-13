@@ -1,0 +1,353 @@
+[
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_000500.pt",
+    "step": 500,
+    "timestamp": "2026-01-12T21:17:16.554139",
+    "metrics": {
+      "train/loss": 3.0192275047302246,
+      "val/loss": 3.0933310270309446
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_001000.pt",
+    "step": 1000,
+    "timestamp": "2026-01-12T21:18:06.517262",
+    "metrics": {
+      "train/loss": 2.494716167449951,
+      "val/loss": 2.507954788208008
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_001500.pt",
+    "step": 1500,
+    "timestamp": "2026-01-12T21:18:56.474651",
+    "metrics": {
+      "train/loss": 2.5228166580200195,
+      "val/loss": 2.322188711166382
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_002000.pt",
+    "step": 2000,
+    "timestamp": "2026-01-12T21:19:46.443703",
+    "metrics": {
+      "train/loss": 2.415342330932617,
+      "val/loss": 2.176110625267029
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_002500.pt",
+    "step": 2500,
+    "timestamp": "2026-01-12T21:20:36.406161",
+    "metrics": {
+      "train/loss": 2.086418628692627,
+      "val/loss": 2.028381884098053
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_003000.pt",
+    "step": 3000,
+    "timestamp": "2026-01-12T21:21:26.349618",
+    "metrics": {
+      "train/loss": 1.964106798171997,
+      "val/loss": 2.0022534251213076
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_003500.pt",
+    "step": 3500,
+    "timestamp": "2026-01-12T21:22:16.307795",
+    "metrics": {
+      "train/loss": 2.1724343299865723,
+      "val/loss": 1.9261739611625672
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_004000.pt",
+    "step": 4000,
+    "timestamp": "2026-01-12T21:23:06.261486",
+    "metrics": {
+      "train/loss": 1.9742302894592285,
+      "val/loss": 1.87551908493042
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_004500.pt",
+    "step": 4500,
+    "timestamp": "2026-01-12T21:23:56.206156",
+    "metrics": {
+      "train/loss": 2.035093307495117,
+      "val/loss": 1.8256209373474122
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_005000.pt",
+    "step": 5000,
+    "timestamp": "2026-01-12T21:24:46.176528",
+    "metrics": {
+      "train/loss": 1.9616641998291016,
+      "val/loss": 1.830530846118927
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_005500.pt",
+    "step": 5500,
+    "timestamp": "2026-01-12T21:25:36.154457",
+    "metrics": {
+      "train/loss": 1.9092170000076294,
+      "val/loss": 1.7727167129516601
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_006000.pt",
+    "step": 6000,
+    "timestamp": "2026-01-12T21:26:26.109154",
+    "metrics": {
+      "train/loss": 1.732604742050171,
+      "val/loss": 1.8052804470062256
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_006500.pt",
+    "step": 6500,
+    "timestamp": "2026-01-12T21:27:16.070945",
+    "metrics": {
+      "train/loss": 1.830227255821228,
+      "val/loss": 1.7977270364761353
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_007000.pt",
+    "step": 7000,
+    "timestamp": "2026-01-12T21:28:06.024618",
+    "metrics": {
+      "train/loss": 1.6896599531173706,
+      "val/loss": 1.7530973315238954
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_007500.pt",
+    "step": 7500,
+    "timestamp": "2026-01-12T21:28:55.993023",
+    "metrics": {
+      "train/loss": 1.5771442651748657,
+      "val/loss": 1.6966968894004821
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_008000.pt",
+    "step": 8000,
+    "timestamp": "2026-01-12T21:29:45.953221",
+    "metrics": {
+      "train/loss": 1.6748417615890503,
+      "val/loss": 1.6741394400596619
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_008500.pt",
+    "step": 8500,
+    "timestamp": "2026-01-12T21:30:35.893427",
+    "metrics": {
+      "train/loss": 1.5047274827957153,
+      "val/loss": 1.6695555686950683
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_009000.pt",
+    "step": 9000,
+    "timestamp": "2026-01-12T21:31:25.862223",
+    "metrics": {
+      "train/loss": 1.662389874458313,
+      "val/loss": 1.6874709129333496
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_009500.pt",
+    "step": 9500,
+    "timestamp": "2026-01-12T21:32:15.818762",
+    "metrics": {
+      "train/loss": 1.4702248573303223,
+      "val/loss": 1.6377618670463563
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_010000.pt",
+    "step": 10000,
+    "timestamp": "2026-01-12T21:33:05.751532",
+    "metrics": {
+      "train/loss": 1.501154899597168,
+      "val/loss": 1.6520505666732788
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_010500.pt",
+    "step": 10500,
+    "timestamp": "2026-01-12T21:33:55.702205",
+    "metrics": {
+      "train/loss": 1.6386719942092896,
+      "val/loss": 1.5954545497894288
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_011000.pt",
+    "step": 11000,
+    "timestamp": "2026-01-12T21:34:45.665185",
+    "metrics": {
+      "train/loss": 1.59940505027771,
+      "val/loss": 1.59193594455719
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_011500.pt",
+    "step": 11500,
+    "timestamp": "2026-01-12T21:35:35.623936",
+    "metrics": {
+      "train/loss": 1.6065473556518555,
+      "val/loss": 1.5669283270835876
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_012000.pt",
+    "step": 12000,
+    "timestamp": "2026-01-12T21:36:25.564301",
+    "metrics": {
+      "train/loss": 1.548553228378296,
+      "val/loss": 1.5819038510322572
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_012500.pt",
+    "step": 12500,
+    "timestamp": "2026-01-12T21:37:15.515388",
+    "metrics": {
+      "train/loss": 1.5206634998321533,
+      "val/loss": 1.5560681819915771
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_013000.pt",
+    "step": 13000,
+    "timestamp": "2026-01-12T21:38:05.459101",
+    "metrics": {
+      "train/loss": 1.5343306064605713,
+      "val/loss": 1.4774543285369872
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_013500.pt",
+    "step": 13500,
+    "timestamp": "2026-01-12T21:38:55.395995",
+    "metrics": {
+      "train/loss": 1.496573567390442,
+      "val/loss": 1.4971861243247986
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_014000.pt",
+    "step": 14000,
+    "timestamp": "2026-01-12T21:39:45.352617",
+    "metrics": {
+      "train/loss": 1.5407302379608154,
+      "val/loss": 1.490394377708435
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_014500.pt",
+    "step": 14500,
+    "timestamp": "2026-01-12T21:40:35.285364",
+    "metrics": {
+      "train/loss": 1.4503552913665771,
+      "val/loss": 1.4497146368026734
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_015000.pt",
+    "step": 15000,
+    "timestamp": "2026-01-12T21:41:25.267099",
+    "metrics": {
+      "train/loss": 1.5423985719680786,
+      "val/loss": 1.528455650806427
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_015500.pt",
+    "step": 15500,
+    "timestamp": "2026-01-12T21:42:15.225908",
+    "metrics": {
+      "train/loss": 1.5396560430526733,
+      "val/loss": 1.4831711769104003
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_016000.pt",
+    "step": 16000,
+    "timestamp": "2026-01-12T21:43:05.190953",
+    "metrics": {
+      "train/loss": 1.5072180032730103,
+      "val/loss": 1.4923181056976318
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_016500.pt",
+    "step": 16500,
+    "timestamp": "2026-01-12T21:43:55.148398",
+    "metrics": {
+      "train/loss": 1.4799891710281372,
+      "val/loss": 1.4797177195549012
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_017000.pt",
+    "step": 17000,
+    "timestamp": "2026-01-12T21:44:45.102462",
+    "metrics": {
+      "train/loss": 1.5249600410461426,
+      "val/loss": 1.5023139595985413
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_017500.pt",
+    "step": 17500,
+    "timestamp": "2026-01-12T21:45:35.068306",
+    "metrics": {
+      "train/loss": 1.464648962020874,
+      "val/loss": 1.4397090196609497
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_018000.pt",
+    "step": 18000,
+    "timestamp": "2026-01-12T21:46:25.040385",
+    "metrics": {
+      "train/loss": 1.4585890769958496,
+      "val/loss": 1.4306150197982788
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_018500.pt",
+    "step": 18500,
+    "timestamp": "2026-01-12T21:47:14.982322",
+    "metrics": {
+      "train/loss": 1.512700080871582,
+      "val/loss": 1.425175416469574
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_019000.pt",
+    "step": 19000,
+    "timestamp": "2026-01-12T21:48:04.931822",
+    "metrics": {
+      "train/loss": 1.5287058353424072,
+      "val/loss": 1.4478911995887755
+    }
+  },
+  {
+    "path": "checkpoints/bz_sweep/bz_16_lr_1e-3/checkpoint_019500.pt",
+    "step": 19500,
+    "timestamp": "2026-01-12T21:48:54.892251",
+    "metrics": {
+      "train/loss": 1.4271066188812256,
+      "val/loss": 1.4948903799057007
+    }
+  }
+]

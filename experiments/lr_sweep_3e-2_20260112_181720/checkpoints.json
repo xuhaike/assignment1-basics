@@ -1,0 +1,173 @@
+[
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_000500.pt",
+    "step": 500,
+    "timestamp": "2026-01-12T18:20:37.971433",
+    "metrics": {
+      "train/loss": 3.0554776191711426,
+      "val/loss": 3.069940781593323
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_001000.pt",
+    "step": 1000,
+    "timestamp": "2026-01-12T18:23:49.398177",
+    "metrics": {
+      "train/loss": 3.2358479499816895,
+      "val/loss": 3.287160134315491
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_001500.pt",
+    "step": 1500,
+    "timestamp": "2026-01-12T18:27:08.492702",
+    "metrics": {
+      "train/loss": 3.2408947944641113,
+      "val/loss": 3.241214561462402
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_002000.pt",
+    "step": 2000,
+    "timestamp": "2026-01-12T18:30:25.048176",
+    "metrics": {
+      "train/loss": 3.1967506408691406,
+      "val/loss": 3.26182701587677
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_002500.pt",
+    "step": 2500,
+    "timestamp": "2026-01-12T18:33:36.765816",
+    "metrics": {
+      "train/loss": 3.1232357025146484,
+      "val/loss": 3.0679197311401367
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_003000.pt",
+    "step": 3000,
+    "timestamp": "2026-01-12T18:36:43.207797",
+    "metrics": {
+      "train/loss": 2.8998663425445557,
+      "val/loss": 3.0413312196731566
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_003500.pt",
+    "step": 3500,
+    "timestamp": "2026-01-12T18:39:52.556401",
+    "metrics": {
+      "train/loss": 3.064408302307129,
+      "val/loss": 2.891675877571106
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_004000.pt",
+    "step": 4000,
+    "timestamp": "2026-01-12T18:43:08.094279",
+    "metrics": {
+      "train/loss": 2.7854666709899902,
+      "val/loss": 2.734491968154907
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_004500.pt",
+    "step": 4500,
+    "timestamp": "2026-01-12T18:46:17.790106",
+    "metrics": {
+      "train/loss": 2.4355714321136475,
+      "val/loss": 2.48511860370636
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_005000.pt",
+    "step": 5000,
+    "timestamp": "2026-01-12T18:49:24.917347",
+    "metrics": {
+      "train/loss": 2.2271299362182617,
+      "val/loss": 2.2325711965560915
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_005500.pt",
+    "step": 5500,
+    "timestamp": "2026-01-12T18:52:32.156841",
+    "metrics": {
+      "train/loss": 2.1572229862213135,
+      "val/loss": 2.031394875049591
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_006000.pt",
+    "step": 6000,
+    "timestamp": "2026-01-12T18:55:39.455819",
+    "metrics": {
+      "train/loss": 1.9431886672973633,
+      "val/loss": 1.9064606308937073
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_006500.pt",
+    "step": 6500,
+    "timestamp": "2026-01-12T18:58:58.470767",
+    "metrics": {
+      "train/loss": 1.8110160827636719,
+      "val/loss": 1.8314387202262878
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_007000.pt",
+    "step": 7000,
+    "timestamp": "2026-01-12T19:02:05.855913",
+    "metrics": {
+      "train/loss": 1.7444406747817993,
+      "val/loss": 1.7347038030624389
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_007500.pt",
+    "step": 7500,
+    "timestamp": "2026-01-12T19:05:13.176047",
+    "metrics": {
+      "train/loss": 1.740533709526062,
+      "val/loss": 1.6917125821113586
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_008000.pt",
+    "step": 8000,
+    "timestamp": "2026-01-12T19:08:20.459533",
+    "metrics": {
+      "train/loss": 1.7058041095733643,
+      "val/loss": 1.7013614416122436
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_008500.pt",
+    "step": 8500,
+    "timestamp": "2026-01-12T19:11:27.798381",
+    "metrics": {
+      "train/loss": 1.6094157695770264,
+      "val/loss": 1.6714923620223998
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_009000.pt",
+    "step": 9000,
+    "timestamp": "2026-01-12T19:14:35.084865",
+    "metrics": {
+      "train/loss": 1.6111361980438232,
+      "val/loss": 1.6708869457244873
+    }
+  },
+  {
+    "path": "checkpoints/lr_sweep/3e-2/checkpoint_009500.pt",
+    "step": 9500,
+    "timestamp": "2026-01-12T19:17:42.421514",
+    "metrics": {
+      "train/loss": 1.562812328338623,
+      "val/loss": 1.645590877532959
+    }
+  }
+]
